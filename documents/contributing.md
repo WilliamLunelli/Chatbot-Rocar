@@ -121,3 +121,11 @@ Done: código implementado, testado, revisado, documentado e integrado na develo
 Use as issues do GitHub para discutir bugs e novas features.
 
 Evite discussões complexas fora do repositório, para manter histórico.
+
+## Inglês ou Português?
+
+Commits - Inglês
+Documentação - Português (terá tradução no futuro)
+Variáveis - Inglês
+Comentários - Inglês
+Branches - Inglês
