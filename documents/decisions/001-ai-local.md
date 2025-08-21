@@ -1,4 +1,4 @@
-# ADR 001 – Uso de Inteligência Artificial Local (LM Studio)
+# ADR 001 – Uso de Inteligência Artificial Local (Ollama)
 
 **Data:** 20/08/2025  
 **Status:** Ativo
@@ -9,7 +9,7 @@ O chatbot precisa processar linguagem natural em português para conduzir conver
 
 ## Decisão
 
-Utilizar **LM Studio** para rodar modelos de linguagem localmente.
+Utilizar **Ollama** para rodar modelos de linguagem localmente.
 
 ## Alternativas Consideradas
 
@@ -17,12 +17,13 @@ Utilizar **LM Studio** para rodar modelos de linguagem localmente.
   Prós: modelos mais poderosos, manutenção zero.  
   Contras: custo recorrente, dependência externa, risco de latência.
 
-- **Modelos locais (LM Studio):**  
-  Prós: controle total sobre dados, sem custos variáveis, independência de terceiros.  
+- **Modelos locais (Ollama):**  
+  Prós: controle total sobre dados, sem custos variáveis, independência de terceiros, suporte a múltiplos modelos de forma simples.  
   Contras: exige hardware robusto, manutenção da infraestrutura.
 
 ## Consequências
 
 - Maior segurança dos dados.
 - Custos fixos e controlados.
+- Facilidade para trocar ou atualizar modelos com o ecossistema Ollama.
 - Necessidade de provisionar hardware capaz de rodar modelos grandes.
