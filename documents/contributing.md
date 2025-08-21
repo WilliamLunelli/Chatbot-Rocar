@@ -125,7 +125,11 @@ Evite discussões complexas fora do repositório, para manter histórico.
 ## Inglês ou Português?
 
 Commits - Inglês
+<br/>
 Documentação - Português (terá tradução no futuro)
+<br/>
 Variáveis - Inglês
+<br/>
 Comentários - Inglês
+<br/>
 Branches - Inglês
